@@ -3,9 +3,10 @@
 > CLASSIFICATION: PUBLIC · DISTRIBUTION UNRESTRICTED
 > STATUS: ACTIVE · ASSET COOPERATIVE
 
-Specialist in the acquisition and reactivation of abandoned systems —
-reverse-engineering closed binaries, recovering lost formats and protocols,
-and restoring them to operational status.
+Specialist in the acquisition and reactivation of abandoned systems.
+Reverse engineering of closed binaries. Recovery of undocumented formats
+and protocols. Custom tooling and server reconstruction built on the
+recovered specifications.
 
 ---
 
