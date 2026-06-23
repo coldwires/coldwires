@@ -3,15 +3,15 @@
 > CLASSIFICATION: PUBLIC · DISTRIBUTION UNRESTRICTED
 > STATUS: ACTIVE · ASSET COOPERATIVE
 
-Specialist in the recovery and reanimation of dead systems. I open things
-that were sealed, read what they were never meant to reveal, and rebuild
-them to answer to new command.
+Specialist in the acquisition and reactivation of abandoned systems —
+reverse-engineering closed binaries, recovering lost formats and protocols,
+and restoring them to operational status.
 
 ---
 
 ### ▍ FIELD SPECIALTIES
 
-- **Close-quarters systems work** — low-level C / C++, down to the metal
+- **Close-quarters systems work** — low-level C / C++, x86 Assembly, down to the metal
 - **Signal interrogation** — reverse engineering of protocols, binary formats, and legacy game internals
 - **Recovery & preservation** — custom tooling to archive online games marked for decommission
 - **Backchannel infrastructure** — authoritative TCP servers for Unity, Unreal, and custom architecture
@@ -21,10 +21,10 @@ them to answer to new command.
 
 ### ▍ LOADOUT
 
-**Languages** `C` · `C++` · `C#` · `Lua` · `x86 Assembly` 
-**Engines / frameworks** `Unity` · `Unreal` · `FNA` · `MonoGame`
-**Reverse engineering** `Ghidra` · `IDA` · `x64dbg` · `Wireshark`
-**Systems** `TCP/IP` · `socket programming` · `binary formats` · `custom serialization`
+- **Languages** `C` · `C++` · `C#` · `Lua` · `x86 Assembly`
+- **Engines / frameworks** `Unity` · `Unreal` · `FNA` · `MonoGame`
+- **Reverse engineering** `Ghidra` · `IDA` · `x64dbg` · `Wireshark`
+- **Systems** `TCP/IP` · `socket programming` · `binary formats` · `custom serialization`
 
 ---
 
