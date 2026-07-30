@@ -5,7 +5,7 @@ C/C++, x86, protocol reverse engineering, authoritative server design.
 Particular interest in server-side anti-cheat: I build the exploit first, then the architecture
 that makes it irrelevant.
 
-Remote · your@email · Open to: game security / anti-cheat, netcode, engine & preservation work
+Remote · wirescold@gmail.com · Open to: game security / anti-cheat, netcode, engine & preservation work
 
 ---
 
