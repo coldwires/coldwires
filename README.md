@@ -1,9 +1,8 @@
 ## COLDWIRES
 
 Systems programmer — network architecture, binary formats, game preservation.
-C/C++, x86, protocol reverse engineering, authoritative server design.
-Particular interest in server-side anti-cheat: I build the exploit first, then the architecture
-that makes it irrelevant.
+C/C++, x86, protocol reverse engineering, authoritative server design. Moving toward vulnerability research and coordinated disclosure, currently investigating a disputed memory-safety issue in a game engine.
+Particular interest in server-side anti-cheat: I study how exploits work in order to design architectures that make them structurally impossible.
 
 Remote · wirescold@gmail.com · Open to: game security / anti-cheat, netcode, engine & preservation work
 
@@ -22,7 +21,7 @@ Protocol recovered through packet analysis and client behavior; rebuilt against 
 documented message spec in place of the original's ad-hoc encryption. Write-up in progress.
 
 **Tooling** — map editors and unpackers built on reverse-engineered archive formats.
-Headless client and stat logger feeding a live leaderboard.
+Stat aggregation from a reverse-engineered client protocol.
 
 ---
 
@@ -46,5 +45,3 @@ Some work is under NDA or otherwise not public. Happy to discuss approach and
 architecture directly.
 
 ---
-
-*The real work is in the repos.*
